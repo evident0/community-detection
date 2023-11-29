@@ -7,4 +7,5 @@ Detect and Visualize Communities in a Graph using pandas and networkx. This proj
 
 1. Run the ``community-detection.py`` using python 3.10 and above is recommended:
 2. Follow the instructions in the CLI. Example: ``L,2000`` (create graph from fb-pages), ``N`` (next), ``D,7,spring`` (run algorithm to find communities), ``M`` (visualize and print data)
-
+![alt text](https://github.com/BillyA15/community-detection/blob/master/images/example_graph.png)
+![alt text](https://github.com/BillyA15/community-detection/blob/master/images/example_bar_plot.png)
